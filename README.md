@@ -34,3 +34,8 @@
 <div align="center">
   <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
+  
+  [![João Vitor GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Jvfarias-prog&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Jvfarias-prog/github-readme-stats#gh-dark-mode-only)
+  
+  [![João Vitor wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jvfarias-prog)](https://github.com/Jvfarias-prog/github-readme-stats)
+  
