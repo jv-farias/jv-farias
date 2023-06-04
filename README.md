@@ -11,7 +11,7 @@
  
 <div>
   <p align="center">
-    <strong> Principal Languages of Course </strong>
+    <strong> Learning Skills </strong>
   </p>
   </div> 
   
