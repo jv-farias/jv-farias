@@ -7,7 +7,7 @@
   <p align="center">
     📍 Full Stack Student in the Digital College | 
     📍 I'm from Fortaleza - Ceara <br>
-    📍 A young man who loves to learn about technologies<br>
+    📚 A young who loves to learn about technologies<br>
 <br><img   src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  width="300"/>
   </p>
   
@@ -32,11 +32,18 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div><br>
-
+  
+  
 <div align="center">
-    <a href="https://www.instagram.com/_jotav29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:jvmnc232@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+  <p><strong>Social Media</strong></p>
+    <a href="https://www.instagram.com/_jotav29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt ="instagram" target="_blank"></a>
+  <a href="mailto:jvmnc232@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="email"></a>
+ </div><br>
+  
+<div align="center">
+  <p><strong>Check out my learning</strong></p>
+ <a href="https://www.freecodecamp.org/joaovitorfarias"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank" alt="freecodecamp"></a>
+  <a href="https://www.duolingo.com/profile/jotavfarias"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank" alt="duolingo"></a>
 </div><br>
 
 
