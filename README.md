@@ -46,12 +46,15 @@
   <a href="https://www.duolingo.com/profile/jotavfarias"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank" alt="duolingo"></a>
 </div><br>
 
+<div align="center">  
 
-  <div align="center">
-    
- [![João Vitor GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Jvfarias-prog&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Jvfarias-prog/github-readme-stats#gh-dark-mode-only)
-    
-</div>
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvfarias-prog&show_icons=true&theme=radical)
+  
+</div align="center"><br>
+  
+  <div align="center">  
+  
+  ![Snake animation](https://github.com/Jvfarias-prog/Jvfarias-prog/blob/output/github-contribution-grid-snake.svg)
   
   <div align="center">
     
