@@ -48,8 +48,9 @@
 
 <div align="center">  
 
-![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvfarias-prog&show_icons=true&theme=radical)
-  
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=jv-farias&show_icons=true&theme=transparent)
+
+
 </div align="center"><br>
   
   <div align="center">  
