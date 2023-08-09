@@ -53,9 +53,7 @@
 
 </div align="center"><br>
   
-  <div align="center">  
-  
-  ![Snake animation](https://github.com/Jvfarias-prog/Jvfarias-prog/blob/output/github-contribution-grid-snake.svg)
+  <div align="center"> 
   
   <div align="center">
     
