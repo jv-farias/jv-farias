@@ -8,7 +8,7 @@
     📍 Full Stack Student in the Digital College | 
     📍 I'm from Fortaleza - Ceara <br>
     📚 A young who loves to learn about technologies<br>
-<br><img   src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  width="300"/>
+<br><img   src="https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif"  width="500"/>
   </p>
   
 <div>
