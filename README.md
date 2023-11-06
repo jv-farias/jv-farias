@@ -2,9 +2,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=32&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jo%C3%A3o+Vitor"     alt="Typing SVG" /></a>
 </h1>
 
-        🌍 I'm from Fortaleza | Ceará | Brazil </p>
-        🧠 I'm a Full Stack Student at the Digital College</p>
-        🤝 I'm open to collaborating on projects for beginners</p>
+        🌍 I'm from Fortaleza | Ceará | Brazil
+        🧠 I'm a Full Stack Student at the Digital College
+        🤝 I'm open to collaborating on projects for beginners
         🤓 A young person who loves technologies, music, trips, comedy, my family, and friends.
 
 <div align="center">
