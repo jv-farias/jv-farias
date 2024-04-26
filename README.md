@@ -3,7 +3,7 @@
 </h1>
 
         🌍 I'm from Fortaleza | Ceará | Brazil
-        🧠 I'm a Full Stack Student at the Digital College
+        🧠 I'm a Developer at 704 Apps
         🤝 I'm open to collaborating on projects for beginners
         🤓 A young person who loves technologies, music, trips, comedy, my family, and friends.
 
