@@ -1,47 +1,45 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=32&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jo%C3%A3o+Vitor"     alt="Typing SVG" /></a>
-</h1>
-
-        🌍 I'm from Fortaleza | Ceará | Brazil
-        🧠 I'm a Developer at 704 Apps
-        🤝 I'm open to collaborating on projects for beginners
-        🤓 A young person who loves technologies, music, trips, comedy, my family, and friends.
+<h1 align="center" >👋 &nbsp;Hi, I'm João Vitor Farias a FullStack Developer</h1>
+<p align="center">
+<a href="https://instagram.com/_jotav29"><img src="https://img.shields.io/badge/-@_jotav29_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jvfariasdev@gmail.com"><img src="https://img.shields.io/badge/-jvfariasdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif" alt="Mario Codando" width="600"/>
+<img src="https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif" alt="Mario Codando" width="500"/>
 </div>
-<br><div align="center">
-  <p>
-    <strong> Learning Skills </strong>
-  </p>
-</div> 
-  
-<div align="center" >
-    <img align="center" alt="HTML" width="45"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS"  width="45" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" width="45" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" width="45" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React"  width="45"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="git" width="45" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div><br>
-  
-<div align="center">
-  <p><strong>Social Media</strong></p>
-    <a href="https://www.instagram.com/_jotav29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt ="instagram" target="_blank"></a>
-  <a href="mailto:jvmnc232@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="email"></a>
- </div><br>
-  
-<div align="center">
-  <p><strong>Check out my learning</strong></p>
- <a href="https://www.freecodecamp.org/joaovitorfarias"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank" alt="freecodecamp"></a>
-  <a href="https://www.duolingo.com/profile/jotavfarias"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank" alt="duolingo"></a>
-</div><br>
+<br>
+
+<h2> 🛠 &nbsp;Tech Stacks</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end and databases:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+
+
+<h3>🔧 &nbsp;ORMs:</h3>
+
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=FFFFFF)
+![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
+![Drizzleorm](https://img.shields.io/badge/-DrizzleORM-333333?style=flat&logo=drizzle)
+![Eloquent](https://img.shields.io/badge/-Eloquent-333333?style=flat&logo=laravel&logoColor=FF2D20)
+
 
 <div align="center">  
 <a href="https://github.com/anuraghazra/github-readme-stats">
