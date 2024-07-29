@@ -1,14 +1,31 @@
-<h1 align="center" >👋 &nbsp;Hi, I'm João Vitor Farias a FullStack Developer</h1>
-<p align="center">
-<a href="https://instagram.com/_jotav29"><img src="https://img.shields.io/badge/-@_jotav29_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+## 👋 Hi there, I'm João Vitor Farias!
+
+### 🎓 About me:
+
+📚 Currently studying Systems Analysis and Development at Estácio University.<br/>
+💻 Full Stack Developer with expertise in both Web and Mobile development, crafting elegant solutions.<br/>
+
+### 👩‍💻 Professional interests:
+
+🏢 Currently working at 704 Apps, delivering high-quality web and mobile applications.<br/>
+🛠️ Continuously exploring new technologies and methodologies.<br/>
+
+### 🌱 What I'm up to:
+
+📖 Constantly learning and improving my skills in software engineering.<br/>
+🤝 Actively contributing to the community through innovative web and mobile projects.<br/>
+
+### 📈 My goals:
+
+🌟 To develop software that makes a difference.<br/>
+🌐 To connect and collaborate with fellow developers and tech enthusiasts.<br/>
+
+### 📫 Get in touch:
+
+<p>
+<a href="https://www.linkedin.com/in/jvfarias"><img src="https://img.shields.io/badge/-João%20Vitor%20Farias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jvfariasdev@gmail.com"><img src="https://img.shields.io/badge/-jvfariasdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif" alt="Mario Codando" width="500"/>
-</div>
-<br>
 
 <h2> 🛠 &nbsp;Tech Stacks</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -32,7 +49,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 
-
 <h3>🔧 &nbsp;ORMs:</h3>
 
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=FFFFFF)
@@ -40,20 +56,4 @@
 ![Drizzleorm](https://img.shields.io/badge/-DrizzleORM-333333?style=flat&logo=drizzle)
 ![Eloquent](https://img.shields.io/badge/-Eloquent-333333?style=flat&logo=laravel&logoColor=FF2D20)
 
-
-<div align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jv-farias&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jv-farias&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
-</a>
-</div>  
-
-
-
-
-
-
-
-
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
